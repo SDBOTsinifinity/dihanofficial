@@ -43,6 +43,6 @@
 
 # CONTACT ME
 
-|[![Telegram](https://img.shields.io/badge/Telegram-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/dihanofficial)&nbsp;
+[![Telegram](https://img.shields.io/badge/Telegram-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/dihanofficial)&nbsp;
 
 
