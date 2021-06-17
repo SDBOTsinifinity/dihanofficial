@@ -1,6 +1,6 @@
 <!-- MY TITTLE -->
 
-# Hello there! I'm Dihan Official <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# Hello there! I'm Dihan Randila <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 <!-- BADGES -->
 
